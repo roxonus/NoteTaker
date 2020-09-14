@@ -1,6 +1,8 @@
 
 # NoteTaker
 
+![](noteAppSS.png)
+
 Here is a link to a video of the app in action!
 https://drive.google.com/file/d/1jv9kMeJRS0i04arCThay0MmJKb-6Dsgo/view?usp=sharing
 
